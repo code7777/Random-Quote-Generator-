@@ -1,0 +1,45 @@
+body
+{
+  background :#045427;
+}
+top{
+  text-alignment:center;
+}
+#col-xs-2{
+  margin-left:200px;
+}
+#left-well{
+	
+	border-style: groove;
+	background-color: #C3CCF1;
+	padding:auto;
+  margin-left:450px;
+  margin-right: -400px;
+  margin-top:10px;
+
+	text-alignment:center;
+	border-radius: 80px;
+  
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  color: #000000;
+}
+.well {
+    text-align: center
+}
+.quote-box {
+    background-color: #C3CCF1;
+  position: absolute;
+  height:50px;
+  width: 480px;
+  padding:auto;
+   text-alignment:center;
+ margin-left: 600px;
+  
+  font-family: serif;
+  font-size: 20;
+  border-radius: 5px;
+}
